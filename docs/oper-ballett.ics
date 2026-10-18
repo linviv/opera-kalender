@@ -584,9 +584,10 @@ DTEND;TZID=Europe/Berlin:20261018T205000
 SUMMARY:Madama Butterfly – Giacomo Puccini
 LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
 DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/madama-butterfly.19/
+ ww.staatsoper-berlin.de/de/veranstaltungen/madama-butterfly.19/?spielzeit=
+ 2026-2027
 URL:https://www.staatsoper-berlin.de/de/veranstaltungen/madama-butterfly.19
- /
+ /?spielzeit=2026-2027
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
@@ -5415,8 +5416,7 @@ UID:kob-1413@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270509T190000
 DTEND;TZID=Europe/Berlin:20270509T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nPremiere\nInfos und Karten: https:
@@ -5472,8 +5472,7 @@ UID:kob-1414@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270511T190000
 DTEND;TZID=Europe/Berlin:20270511T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5501,8 +5500,7 @@ UID:kob-1415@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270512T190000
 DTEND;TZID=Europe/Berlin:20270512T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5544,8 +5542,7 @@ UID:kob-1416@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270513T190000
 DTEND;TZID=Europe/Berlin:20270513T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5559,8 +5556,7 @@ UID:kob-1417@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270514T190000
 DTEND;TZID=Europe/Berlin:20270514T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5615,8 +5611,7 @@ UID:kob-1418@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270515T193000
 DTEND;TZID=Europe/Berlin:20270515T223000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5672,8 +5667,7 @@ UID:kob-1419@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270516T190000
 DTEND;TZID=Europe/Berlin:20270516T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5687,8 +5681,7 @@ UID:kob-1420@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270517T180000
 DTEND;TZID=Europe/Berlin:20270517T210000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5756,8 +5749,7 @@ UID:kob-1421@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270519T190000
 DTEND;TZID=Europe/Berlin:20270519T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5797,8 +5789,7 @@ UID:kob-1422@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270520T190000
 DTEND;TZID=Europe/Berlin:20270520T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5825,8 +5816,7 @@ UID:kob-1423@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270521T190000
 DTEND;TZID=Europe/Berlin:20270521T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5881,8 +5871,7 @@ UID:kob-1424@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270522T193000
 DTEND;TZID=Europe/Berlin:20270522T223000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5925,8 +5914,7 @@ UID:kob-1425@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270523T160000
 DTEND;TZID=Europe/Berlin:20270523T190000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5955,8 +5943,7 @@ UID:kob-1426@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270525T190000
 DTEND;TZID=Europe/Berlin:20270525T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5970,8 +5957,7 @@ UID:kob-1427@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270526T190000
 DTEND;TZID=Europe/Berlin:20270526T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -5998,8 +5984,7 @@ UID:kob-1428@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270527T190000
 DTEND;TZID=Europe/Berlin:20270527T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -6054,8 +6039,7 @@ UID:kob-1429@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270528T190000
 DTEND;TZID=Europe/Berlin:20270528T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -6122,8 +6106,7 @@ UID:kob-1430@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270529T193000
 DTEND;TZID=Europe/Berlin:20270529T223000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -6165,8 +6148,7 @@ UID:kob-1431@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270530T180000
 DTEND;TZID=Europe/Berlin:20270530T210000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -6247,8 +6229,7 @@ UID:kob-1432@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270604T190000
 DTEND;TZID=Europe/Berlin:20270604T220000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
@@ -6275,8 +6256,7 @@ UID:kob-1433@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270605T193000
 DTEND;TZID=Europe/Berlin:20270605T223000
-SUMMARY:Porgy and Bess – von George Gershwin\, DuBose und Dorothy Heyward
-  und Ira Gershwin
+SUMMARY:Porgy and Bess – George Gershwin
 LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
  25 Berlin
 DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
