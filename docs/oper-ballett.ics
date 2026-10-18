@@ -604,19 +604,6 @@ URL:https://deutscheoperberlin.de/de_DE/production/carmen.1385520?event_dat
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:so-153988@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261022T190000
-DTEND;TZID=Europe/Berlin:20261022T215000
-SUMMARY:Madama Butterfly – Giacomo Puccini
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/madama-butterfly.19/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/madama-butterfly.19
- /
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:kob-1299@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261023T193000
@@ -630,20 +617,6 @@ DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
 URL:https://www.komische-oper-berlin.de/spielplan/kalender/2026-10/orpheus-
  in-der-unterwelt/1299/
 CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:sbb-828@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261023T193000
-DTEND;TZID=Europe/Berlin:20261023T220000
-SUMMARY:Giselle – Patrice Bart
-LOCATION:Staatsballett Berlin @ Staatsoper Unter den Linden\, Unter den Lin
- den 7\, 10117 Berlin
-DESCRIPTION:Staatsballett Berlin (Ballett)\nInfos und Karten: https://www.s
- taatsballett-berlin.de/spielplan/stueck-detail/stid/giselle/42.html#a_828
-URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/gisell
- e/42.html#a_828
-CATEGORIES:Ballett
 END:VEVENT
 BEGIN:VEVENT
 UID:dob-17919032@opera-kalender
@@ -674,34 +647,6 @@ URL:https://www.komische-oper-berlin.de/spielplan/kalender/2026-10/jewgeni-
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:so-153989@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261024T190000
-DTEND;TZID=Europe/Berlin:20261024T215000
-SUMMARY:Madama Butterfly – Giacomo Puccini
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/madama-butterfly.19/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/madama-butterfly.19
- /
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:sbb-846@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261025T150000
-DTEND;TZID=Europe/Berlin:20261025T173000
-SUMMARY:Wunderkammer – Marcos Morau
-LOCATION:Staatsballett Berlin @ Schillertheater\, Bismarckstraße 110\, 106
- 25 Berlin
-DESCRIPTION:Staatsballett Berlin (Ballett)\nInfos und Karten: https://www.s
- taatsballett-berlin.de/spielplan/stueck-detail/stid/wunderkammer/299.html#
- a_846
-URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/wunder
- kammer/299.html#a_846
-CATEGORIES:Ballett
-END:VEVENT
-BEGIN:VEVENT
 UID:dob-17916340@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261025T160000
@@ -725,21 +670,6 @@ DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
  ww.staatsoper-berlin.de/de/veranstaltungen/tosca.23/
 URL:https://www.staatsoper-berlin.de/de/veranstaltungen/tosca.23/
 CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:sbb-847@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261025T190000
-DTEND;TZID=Europe/Berlin:20261025T213000
-SUMMARY:Wunderkammer – Marcos Morau
-LOCATION:Staatsballett Berlin @ Schillertheater\, Bismarckstraße 110\, 106
- 25 Berlin
-DESCRIPTION:Staatsballett Berlin (Ballett)\nInfos und Karten: https://www.s
- taatsballett-berlin.de/spielplan/stueck-detail/stid/wunderkammer/299.html#
- a_847
-URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/wunder
- kammer/299.html#a_847
-CATEGORIES:Ballett
 END:VEVENT
 BEGIN:VEVENT
 UID:dob-17919033@opera-kalender
@@ -768,20 +698,6 @@ URL:https://www.staatsoper-berlin.de/de/veranstaltungen/tosca.23/
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:sbb-829@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261029T193000
-DTEND;TZID=Europe/Berlin:20261029T220000
-SUMMARY:Giselle – Patrice Bart
-LOCATION:Staatsballett Berlin @ Staatsoper Unter den Linden\, Unter den Lin
- den 7\, 10117 Berlin
-DESCRIPTION:Staatsballett Berlin (Ballett)\nInfos und Karten: https://www.s
- taatsballett-berlin.de/spielplan/stueck-detail/stid/giselle/42.html#a_829
-URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/gisell
- e/42.html#a_829
-CATEGORIES:Ballett
-END:VEVENT
-BEGIN:VEVENT
 UID:kob-1300@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261030T190000
@@ -795,20 +711,6 @@ DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
 URL:https://www.komische-oper-berlin.de/spielplan/kalender/2026-10/orpheus-
  in-der-unterwelt/1300/
 CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:sbb-830@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261030T193000
-DTEND;TZID=Europe/Berlin:20261030T220000
-SUMMARY:Giselle – Patrice Bart
-LOCATION:Staatsballett Berlin @ Staatsoper Unter den Linden\, Unter den Lin
- den 7\, 10117 Berlin
-DESCRIPTION:Staatsballett Berlin (Ballett)\nInfos und Karten: https://www.s
- taatsballett-berlin.de/spielplan/stueck-detail/stid/giselle/42.html#a_830
-URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/gisell
- e/42.html#a_830
-CATEGORIES:Ballett
 END:VEVENT
 BEGIN:VEVENT
 UID:so-153992@opera-kalender
@@ -904,21 +806,6 @@ URL:https://deutscheoperberlin.de/de_DE/production/elektra.1385724?event_da
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:sbb-848@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261106T200000
-DTEND;TZID=Europe/Berlin:20261106T223000
-SUMMARY:Wunderkammer – Marcos Morau
-LOCATION:Staatsballett Berlin @ Schillertheater\, Bismarckstraße 110\, 106
- 25 Berlin
-DESCRIPTION:Staatsballett Berlin (Ballett)\nInfos und Karten: https://www.s
- taatsballett-berlin.de/spielplan/stueck-detail/stid/wunderkammer/299.html#
- a_848
-URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/wunder
- kammer/299.html#a_848
-CATEGORIES:Ballett
-END:VEVENT
-BEGIN:VEVENT
 UID:dob-17916553@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261107T190000
@@ -959,21 +846,6 @@ DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
 URL:https://deutscheoperberlin.de/de_DE/production/der-fliegende-hollaender
  .1385827?event_date=17919035
 CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:sbb-849@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261108T180000
-DTEND;TZID=Europe/Berlin:20261108T203000
-SUMMARY:Wunderkammer – Marcos Morau
-LOCATION:Staatsballett Berlin @ Schillertheater\, Bismarckstraße 110\, 106
- 25 Berlin
-DESCRIPTION:Staatsballett Berlin (Ballett)\nInfos und Karten: https://www.s
- taatsballett-berlin.de/spielplan/stueck-detail/stid/wunderkammer/299.html#
- a_849
-URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/wunder
- kammer/299.html#a_849
-CATEGORIES:Ballett
 END:VEVENT
 BEGIN:VEVENT
 UID:so-153693@opera-kalender
@@ -1107,20 +979,6 @@ URL:https://deutscheoperberlin.de/de_DE/production/der-fliegende-hollaender
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:dob-17916130@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261116T193000
-DTEND;TZID=Europe/Berlin:20261116T223000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/die-zauberfloete.1385471?event_date=1791613
- 0
-URL:https://deutscheoperberlin.de/de_DE/production/die-zauberfloete.1385471
- ?event_date=17916130
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:dob-17917084@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261117T193000
@@ -1241,20 +1099,6 @@ URL:https://www.staatsoper-berlin.de/de/veranstaltungen/l-incoronazione-di-
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:dob-17916131@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261124T193000
-DTEND;TZID=Europe/Berlin:20261124T223000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/die-zauberfloete.1385471?event_date=1791613
- 1
-URL:https://deutscheoperberlin.de/de_DE/production/die-zauberfloete.1385471
- ?event_date=17916131
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:so-154654@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261125T193000
@@ -1307,20 +1151,6 @@ URL:https://www.staatsoper-berlin.de/de/veranstaltungen/dido-aeneas.7528/
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:dob-17916132@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261128T190000
-DTEND;TZID=Europe/Berlin:20261128T220000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/die-zauberfloete.1385471?event_date=1791613
- 2
-URL:https://deutscheoperberlin.de/de_DE/production/die-zauberfloete.1385471
- ?event_date=17916132
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:kob-1390@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261128T193000
@@ -1362,19 +1192,6 @@ URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/der-nu
 CATEGORIES:Ballett
 END:VEVENT
 BEGIN:VEVENT
-UID:so-154001@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261129T180000
-DTEND;TZID=Europe/Berlin:20261129T210000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15
- /
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:sbb-853@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261129T193000
@@ -1388,19 +1205,6 @@ DESCRIPTION:Staatsballett Berlin (Ballett)\nInfos und Karten: https://www.s
 URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/der-nu
  ssknacker/348.html#a_853
 CATEGORIES:Ballett
-END:VEVENT
-BEGIN:VEVENT
-UID:so-154023@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261201T110000
-DTEND;TZID=Europe/Berlin:20261201T140000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15
- /
-CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
 UID:so-153994@opera-kalender
@@ -1426,19 +1230,6 @@ DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
  sche-oper-berlin.de/spielplan/kalender/2026-12/madama-butterfly/1391/
 URL:https://www.komische-oper-berlin.de/spielplan/kalender/2026-12/madama-b
  utterfly/1391/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:so-154024@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261203T190000
-DTEND;TZID=Europe/Berlin:20261203T220000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15
- /
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
@@ -1498,19 +1289,6 @@ URL:https://www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:so-154025@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261205T190000
-DTEND;TZID=Europe/Berlin:20261205T220000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15
- /
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:dob-17903223@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261205T193000
@@ -1552,20 +1330,6 @@ DESCRIPTION:Staatsballett Berlin (Ballett)\nInfos und Karten: https://www.s
 URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/der-nu
  ssknacker/348.html#a_855
 CATEGORIES:Ballett
-END:VEVENT
-BEGIN:VEVENT
-UID:kob-1236@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261206T160000
-DTEND;TZID=Europe/Berlin:20261206T190000
-SUMMARY:Hänsel und Gretel – Engelbert Humperdinck
-LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
- 25 Berlin
-DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
- sche-oper-berlin.de/spielplan/kalender/2026-12/haensel-und-gretel/1236/
-URL:https://www.komische-oper-berlin.de/spielplan/kalender/2026-12/haensel-
- und-gretel/1236/
-CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
 UID:so-154367@opera-kalender
@@ -1632,19 +1396,6 @@ LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
 DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
  ww.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
 URL:https://www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17917965@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261211T190000
-DTEND;TZID=Europe/Berlin:20261211T213000
-SUMMARY:La bohème – Giacomo Puccini
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/la-boheme.1385732?event_date=17917965
-URL:https://deutscheoperberlin.de/de_DE/production/la-boheme.1385732?event_
- date=17917965
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
@@ -1719,19 +1470,6 @@ URL:https://www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:dob-17917970@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261213T160000
-DTEND;TZID=Europe/Berlin:20261213T183000
-SUMMARY:La bohème – Giacomo Puccini
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/la-boheme.1385732?event_date=17917970
-URL:https://deutscheoperberlin.de/de_DE/production/la-boheme.1385732?event_
- date=17917970
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:sbb-869@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261213T180000
@@ -1774,46 +1512,6 @@ URL:https://www.staatsoper-berlin.de/de/veranstaltungen/nabucco.15505/
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:kob-1237@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261215T180000
-DTEND;TZID=Europe/Berlin:20261215T210000
-SUMMARY:Hänsel und Gretel – Engelbert Humperdinck
-LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
- 25 Berlin
-DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
- sche-oper-berlin.de/spielplan/kalender/2026-12/haensel-und-gretel/1237/
-URL:https://www.komische-oper-berlin.de/spielplan/kalender/2026-12/haensel-
- und-gretel/1237/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:so-154026@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261215T190000
-DTEND;TZID=Europe/Berlin:20261215T220000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15
- /
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17917973@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261215T193000
-DTEND;TZID=Europe/Berlin:20261215T220000
-SUMMARY:La bohème – Giacomo Puccini
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/la-boheme.1385732?event_date=17917973
-URL:https://deutscheoperberlin.de/de_DE/production/la-boheme.1385732?event_
- date=17917973
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:kob-1257@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261216T190000
@@ -1837,19 +1535,6 @@ LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
 DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
  ww.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
 URL:https://www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17917977@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261217T190000
-DTEND;TZID=Europe/Berlin:20261217T213000
-SUMMARY:La bohème – Giacomo Puccini
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/la-boheme.1385732?event_date=17917977
-URL:https://deutscheoperberlin.de/de_DE/production/la-boheme.1385732?event_
- date=17917977
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
@@ -1908,20 +1593,6 @@ URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/2-chap
 CATEGORIES:Ballett
 END:VEVENT
 BEGIN:VEVENT
-UID:kob-1238@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261219T190000
-DTEND;TZID=Europe/Berlin:20261219T220000
-SUMMARY:Hänsel und Gretel – Engelbert Humperdinck
-LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
- 25 Berlin
-DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
- sche-oper-berlin.de/spielplan/kalender/2026-12/haensel-und-gretel/1238/
-URL:https://www.komische-oper-berlin.de/spielplan/kalender/2026-12/haensel-
- und-gretel/1238/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:sbb-859@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261219T193000
@@ -1946,19 +1617,6 @@ LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
 DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
  ww.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
 URL:https://www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17917981@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261220T160000
-DTEND;TZID=Europe/Berlin:20261220T183000
-SUMMARY:La bohème – Giacomo Puccini
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/la-boheme.1385732?event_date=17917981
-URL:https://deutscheoperberlin.de/de_DE/production/la-boheme.1385732?event_
- date=17917981
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
@@ -1989,20 +1647,6 @@ URL:https://www.komische-oper-berlin.de/spielplan/kalender/2026-12/bretter-
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:kob-1239@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261221T180000
-DTEND;TZID=Europe/Berlin:20261221T210000
-SUMMARY:Hänsel und Gretel – Engelbert Humperdinck
-LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
- 25 Berlin
-DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
- sche-oper-berlin.de/spielplan/kalender/2026-12/haensel-und-gretel/1239/
-URL:https://www.komische-oper-berlin.de/spielplan/kalender/2026-12/haensel-
- und-gretel/1239/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:sbb-871@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261221T193000
@@ -2029,20 +1673,6 @@ DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
  sche-oper-berlin.de/spielplan/kalender/2026-12/jewgeni-onegin/1258/
 URL:https://www.komische-oper-berlin.de/spielplan/kalender/2026-12/jewgeni-
  onegin/1258/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17916133@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261222T193000
-DTEND;TZID=Europe/Berlin:20261222T223000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/die-zauberfloete.1385471?event_date=1791613
- 3
-URL:https://deutscheoperberlin.de/de_DE/production/die-zauberfloete.1385471
- ?event_date=17916133
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
@@ -2141,19 +1771,6 @@ URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/der-nu
 CATEGORIES:Ballett
 END:VEVENT
 BEGIN:VEVENT
-UID:so-154028@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261226T140000
-DTEND;TZID=Europe/Berlin:20261226T170000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15
- /
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:dob-17918257@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261226T160000
@@ -2179,33 +1796,6 @@ DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
  en/1387/
 URL:https://www.komische-oper-berlin.de/spielplan/kalender/2026-12/bretter-
  die-die-welt-bedeuten/1387/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:so-154027@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261226T190000
-DTEND;TZID=Europe/Berlin:20261226T220000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15
- /
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17918237@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261227T180000
-DTEND;TZID=Europe/Berlin:20261227T201500
-SUMMARY:Hänsel und Gretel – Engelbert Humperdinck
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/haensel-und-gretel.1385736?event_date=17918
- 237
-URL:https://deutscheoperberlin.de/de_DE/production/haensel-und-gretel.13857
- 36?event_date=17918237
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
@@ -2278,33 +1868,6 @@ URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/2-chap
 CATEGORIES:Ballett
 END:VEVENT
 BEGIN:VEVENT
-UID:kob-1240@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261229T190000
-DTEND;TZID=Europe/Berlin:20261229T220000
-SUMMARY:Hänsel und Gretel – Engelbert Humperdinck
-LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
- 25 Berlin
-DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
- sche-oper-berlin.de/spielplan/kalender/2026-12/haensel-und-gretel/1240/
-URL:https://www.komische-oper-berlin.de/spielplan/kalender/2026-12/haensel-
- und-gretel/1240/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:so-154035@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261229T190000
-DTEND;TZID=Europe/Berlin:20261229T220000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15
- /
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:sbb-862@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261229T193000
@@ -2318,20 +1881,6 @@ DESCRIPTION:Staatsballett Berlin (Ballett)\nInfos und Karten: https://www.s
 URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/der-nu
  ssknacker/348.html#a_862
 CATEGORIES:Ballett
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17916134@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20261230T190000
-DTEND;TZID=Europe/Berlin:20261230T220000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/die-zauberfloete.1385471?event_date=1791613
- 4
-URL:https://deutscheoperberlin.de/de_DE/production/die-zauberfloete.1385471
- ?event_date=17916134
-CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
 UID:kob-1388@opera-kalender
@@ -2416,46 +1965,6 @@ URL:https://www.staatsoper-berlin.de/de/veranstaltungen/la-boheme.24/
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:dob-17918238@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270103T160000
-DTEND;TZID=Europe/Berlin:20270103T181500
-SUMMARY:Hänsel und Gretel – Engelbert Humperdinck
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/haensel-und-gretel.1385736?event_date=17918
- 238
-URL:https://deutscheoperberlin.de/de_DE/production/haensel-und-gretel.13857
- 36?event_date=17918238
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:so-154030@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270103T180000
-DTEND;TZID=Europe/Berlin:20270103T210000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15
- /
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:so-154031@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270106T190000
-DTEND;TZID=Europe/Berlin:20270106T220000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15
- /
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:so-154383@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270107T193000
@@ -2465,20 +1974,6 @@ LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
 DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
  ww.staatsoper-berlin.de/de/veranstaltungen/la-traviata.12528/
 URL:https://www.staatsoper-berlin.de/de/veranstaltungen/la-traviata.12528/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:kob-1241@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270108T190000
-DTEND;TZID=Europe/Berlin:20270108T220000
-SUMMARY:Hänsel und Gretel – Engelbert Humperdinck
-LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
- 25 Berlin
-DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
- sche-oper-berlin.de/spielplan/kalender/2027-01/haensel-und-gretel/1241/
-URL:https://www.komische-oper-berlin.de/spielplan/kalender/2027-01/haensel-
- und-gretel/1241/
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
@@ -2595,20 +2090,6 @@ DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
  sche-oper-berlin.de/spielplan/kalender/2027-01/madama-butterfly/1397/
 URL:https://www.komische-oper-berlin.de/spielplan/kalender/2027-01/madama-b
  utterfly/1397/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17937077@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270115T193000
-DTEND;TZID=Europe/Berlin:20270115T223000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/die-zauberfloete.1385471?event_date=1793707
- 7
-URL:https://deutscheoperberlin.de/de_DE/production/die-zauberfloete.1385471
- ?event_date=17937077
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
@@ -2757,20 +2238,6 @@ DESCRIPTION:Staatsballett Berlin (Ballett)\nInfos und Karten: https://www.s
 URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/2-chap
  ters-love/63.html#a_873
 CATEGORIES:Ballett
-END:VEVENT
-BEGIN:VEVENT
-UID:kob-1242@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270123T160000
-DTEND;TZID=Europe/Berlin:20270123T190000
-SUMMARY:Hänsel und Gretel – Engelbert Humperdinck
-LOCATION:Komische Oper Berlin @ Schillertheater\, Bismarckstraße 110\, 106
- 25 Berlin
-DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
- sche-oper-berlin.de/spielplan/kalender/2027-01/haensel-und-gretel/1242/
-URL:https://www.komische-oper-berlin.de/spielplan/kalender/2027-01/haensel-
- und-gretel/1242/
-CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
 UID:dob-17916159@opera-kalender
@@ -2923,19 +2390,6 @@ URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/2-chap
 CATEGORIES:Ballett
 END:VEVENT
 BEGIN:VEVENT
-UID:dob-17918954@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270129T190000
-DTEND;TZID=Europe/Berlin:20270129T213500
-SUMMARY:Rigoletto – Giuseppe Verdi
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/rigoletto.1385794?event_date=17918954
-URL:https://deutscheoperberlin.de/de_DE/production/rigoletto.1385794?event_
- date=17918954
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:kob-1286@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270129T190000
@@ -3085,19 +2539,6 @@ URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-entfuehrung-aus
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:dob-17918955@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270203T193000
-DTEND;TZID=Europe/Berlin:20270203T220500
-SUMMARY:Rigoletto – Giuseppe Verdi
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/rigoletto.1385794?event_date=17918955
-URL:https://deutscheoperberlin.de/de_DE/production/rigoletto.1385794?event_
- date=17918955
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:so-154387@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270203T193000
@@ -3150,19 +2591,6 @@ DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
  sche-oper-berlin.de/spielplan/kalender/2027-02/krol-roger/1405/
 URL:https://www.komische-oper-berlin.de/spielplan/kalender/2027-02/krol-rog
  er/1405/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17918956@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270205T193000
-DTEND;TZID=Europe/Berlin:20270205T220500
-SUMMARY:Rigoletto – Giuseppe Verdi
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/rigoletto.1385794?event_date=17918956
-URL:https://deutscheoperberlin.de/de_DE/production/rigoletto.1385794?event_
- date=17918956
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
@@ -3467,19 +2895,6 @@ DESCRIPTION:Staatsballett Berlin (Ballett)\nInfos und Karten: https://www.s
 URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/fearfu
  l-symmetries/303.html#a_887
 CATEGORIES:Ballett
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17918957@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270219T190000
-DTEND;TZID=Europe/Berlin:20270219T213500
-SUMMARY:Rigoletto – Giuseppe Verdi
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/rigoletto.1385794?event_date=17918957
-URL:https://deutscheoperberlin.de/de_DE/production/rigoletto.1385794?event_
- date=17918957
-CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
 UID:kob-1275@opera-kalender
@@ -5594,19 +5009,6 @@ URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/2-chap
 CATEGORIES:Ballett
 END:VEVENT
 BEGIN:VEVENT
-UID:so-154033@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270515T190000
-DTEND;TZID=Europe/Berlin:20270515T220000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15
- /
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:kob-1418@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270515T193000
@@ -5691,19 +5093,6 @@ URL:https://www.komische-oper-berlin.de/spielplan/kalender/2027-05/porgy-an
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
-UID:so-154036@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270517T180000
-DTEND;TZID=Europe/Berlin:20270517T210000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15
- /
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
 UID:sbb-915@opera-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270517T193000
@@ -5716,19 +5105,6 @@ DESCRIPTION:Staatsballett Berlin (Ballett)\nInfos und Karten: https://www.s
 URL:https://www.staatsballett-berlin.de/spielplan/stueck-detail/stid/nureje
  w/301.html#a_915
 CATEGORIES:Ballett
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17918130@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270518T190000
-DTEND;TZID=Europe/Berlin:20270518T213000
-SUMMARY:La bohème – Giacomo Puccini
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/la-boheme.1385732?event_date=17918130
-URL:https://deutscheoperberlin.de/de_DE/production/la-boheme.1385732?event_
- date=17918130
-CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
 UID:kob-1402@opera-kalender
@@ -5769,19 +5145,6 @@ DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
  ww.staatsoper-berlin.de/de/veranstaltungen/koenigskinder.27277/
 URL:https://www.staatsoper-berlin.de/de/veranstaltungen/koenigskinder.27277
  /
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17918135@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270520T190000
-DTEND;TZID=Europe/Berlin:20270520T213000
-SUMMARY:La bohème – Giacomo Puccini
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/la-boheme.1385732?event_date=17918135
-URL:https://deutscheoperberlin.de/de_DE/production/la-boheme.1385732?event_
- date=17918135
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
@@ -5851,19 +5214,6 @@ DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
  ww.staatsoper-berlin.de/de/veranstaltungen/la-forza-del-destino.27278/
 URL:https://www.staatsoper-berlin.de/de/veranstaltungen/la-forza-del-destin
  o.27278/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17918139@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270522T190000
-DTEND;TZID=Europe/Berlin:20270522T213000
-SUMMARY:La bohème – Giacomo Puccini
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/la-boheme.1385732?event_date=17918139
-URL:https://deutscheoperberlin.de/de_DE/production/la-boheme.1385732?event_
- date=17918139
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
@@ -5964,19 +5314,6 @@ DESCRIPTION:Komische Oper Berlin (Oper)\nInfos und Karten: https://www.komi
  sche-oper-berlin.de/spielplan/kalender/2027-05/porgy-and-bess/1427/
 URL:https://www.komische-oper-berlin.de/spielplan/kalender/2027-05/porgy-an
  d-bess/1427/
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:dob-17918143@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270526T193000
-DTEND;TZID=Europe/Berlin:20270526T220000
-SUMMARY:La bohème – Giacomo Puccini
-LOCATION:Deutsche Oper Berlin\, Bismarckstraße 35\, 10627 Berlin
-DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
- operberlin.de/de_DE/production/la-boheme.1385732?event_date=17918143
-URL:https://deutscheoperberlin.de/de_DE/production/la-boheme.1385732?event_
- date=17918143
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
@@ -6086,19 +5423,6 @@ DESCRIPTION:Deutsche Oper Berlin (Oper)\nInfos und Karten: https://deutsche
  operberlin.de/de_DE/production/don-carlo.1385834?event_date=17919060
 URL:https://deutscheoperberlin.de/de_DE/production/don-carlo.1385834?event_
  date=17919060
-CATEGORIES:Oper
-END:VEVENT
-BEGIN:VEVENT
-UID:so-154037@opera-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270529T190000
-DTEND;TZID=Europe/Berlin:20270529T220000
-SUMMARY:Die Zauberflöte – Wolfgang Amadeus Mozart
-LOCATION:Staatsoper Unter den Linden\, Unter den Linden 7\, 10117 Berlin
-DESCRIPTION:Staatsoper Unter den Linden (Oper)\nInfos und Karten: https://w
- ww.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15/
-URL:https://www.staatsoper-berlin.de/de/veranstaltungen/die-zauberfloete.15
- /
 CATEGORIES:Oper
 END:VEVENT
 BEGIN:VEVENT
