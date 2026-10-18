@@ -13,3 +13,16 @@
 # Beispiele (ohne # davor wirksam):
 # La bohème @ Deutsche Oper
 # Giselle @ Staatsballett
+
+#Will ich nicht sehen
+Die Zauberflöte @ Deutsche Oper
+Hänsel und Gretel @ Deutsche Oper
+Hänsel und Gretel @ Komische Oper
+Die Zauberflöte @ Staatsoper
+
+#Gesehen
+La bohème @ Deutsche Oper
+Rigoletto @ Deutsche Oper
+Giselle @ Staatsballett
+Wunderkammer @ Staatsballett
+Madama Butterfly @ Staatsoper
