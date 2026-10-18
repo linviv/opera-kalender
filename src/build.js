@@ -30,17 +30,31 @@ async function readJson(file, fallback) {
   try { return JSON.parse(await readFile(file, 'utf8')); } catch { return fallback; }
 }
 
-/** gesehen.txt: eine Produktion pro Zeile, Zeilen mit # sind Kommentare. */
-export async function readSeen(file = P.seen) {
-  if (!existsSync(file)) return new Set();
-  const text = await readFile(file, 'utf8');
-  return new Set(
-    text.split(/\r?\n/).map((l) => l.replace(/#.*/, '').trim()).filter(Boolean).map(normKey)
-  );
+/** gesehen.txt: eine Produktion pro Zeile. "Titel" blendet sie überall aus,
+ *  "Titel @ Haus" nur im genannten Haus (z. B. "Tosca @ Staatsoper"). Zeilen mit # sind Kommentare. */
+export function parseSeen(text) {
+  return text
+    .split(/\r?\n/)
+    .map((l) => l.replace(/#.*/, '').trim())
+    .filter(Boolean)
+    .map((l) => {
+      const [title, house] = l.split('@');
+      return { key: normKey(title), house: house ? normKey(house) : null };
+    });
 }
 
-export function isHidden(ev, seen) {
-  return seen.has(normKey(ev.title)) || seen.has(normKey(summaryOf(ev)));
+export async function readSeen(file = P.seen) {
+  if (!existsSync(file)) return [];
+  return parseSeen(await readFile(file, 'utf8'));
+}
+
+export function isHidden(ev, rules) {
+  const titleKey = normKey(ev.title);
+  const fullKey = normKey(summaryOf(ev));
+  const company = normKey(ev.company);
+  return rules.some(
+    (r) => (r.key === titleKey || r.key === fullKey) && (!r.house || company.includes(r.house))
+  );
 }
 
 export function mergeArchive(prevEvents, scraped, failedPrefixes, now) {
@@ -52,6 +66,13 @@ export function mergeArchive(prevEvents, scraped, failedPrefixes, now) {
   for (const ev of scraped) map.set(ev.uid, ev);
   return [...map.values()];
 }
+
+const HOUSE_SHORT = {
+  'Deutsche Oper Berlin': 'Deutsche Oper',
+  'Komische Oper Berlin': 'Komische Oper',
+  'Staatsoper Unter den Linden': 'Staatsoper',
+  'Staatsballett Berlin': 'Staatsballett',
+};
 
 export function prueflisteMarkdown(events, seen, prevKeys, now) {
   const groups = new Map();
@@ -68,13 +89,13 @@ export function prueflisteMarkdown(events, seen, prevKeys, now) {
     '',
     'Diese Liste wird bei jedem Update neu erzeugt. Pro Produktion eine Zeile.',
     '',
-    '**Eine Produktion abwählen:** Datei `gesehen.txt` öffnen, den Titel in eine neue Zeile schreiben, speichern. Beim nächsten Update verschwinden alle künftigen Termine dieser Produktion aus dem Kalender. Bereits vergangene Termine bleiben erhalten.',
+    '**Eine Produktion abwählen:** Datei `gesehen.txt` öffnen und die Zeile aus der letzten Spalte (z. B. `Tosca @ Staatsoper`) in eine neue Zeile kopieren, speichern. Ohne den Teil nach dem @ verschwindet der Titel in allen Häusern. Beim nächsten Update verschwinden alle künftigen Termine dieser Produktion aus dem Kalender. Bereits vergangene Termine bleiben erhalten.',
     '',
   ];
   let lastCompany = '';
   for (const g of rows) {
     if (g.company !== lastCompany) {
-      out.push('', `## ${g.company}`, '', '| Produktion | Termine | Zeitraum | Status |', '|---|---|---|---|');
+      out.push('', `## ${g.company}`, '', '| Produktion | Termine | Zeitraum | Status | Eintrag für gesehen.txt |', '|---|---|---|---|---|');
       lastCompany = g.company;
     }
     g.dates.sort();
@@ -82,7 +103,8 @@ export function prueflisteMarkdown(events, seen, prevKeys, now) {
     const status = g.hidden ? 'ausgeblendet (gesehen)' : isNew ? '**neu**' : 'im Kalender';
     const name = g.creator ? `${g.title} – ${g.creator}` : g.title;
     const range = g.dates.length === 1 ? fmt(g.dates[0]) : `${fmt(g.dates[0])} bis ${fmt(g.dates[g.dates.length - 1])}`;
-    out.push(`| ${name.replace(/\|/g, '/')} | ${g.dates.length} | ${range} | ${status} |`);
+    const entry = `${g.title} @ ${HOUSE_SHORT[g.company] || g.company}`;
+    out.push(`| ${name.replace(/\|/g, '/')} | ${g.dates.length} | ${range} | ${status} | \`${entry}\` |`);
   }
   out.push('', `Stand: ${now.replace('T', ' ')} Uhr (Berliner Zeit)`, '');
   return out.join('\n');

@@ -20,6 +20,8 @@ export function parseKobMonth(document) {
     );
     if (!author) continue;
     if (/^choreo/i.test(author)) continue;
+    // "von George Gershwin, DuBose und Dorothy Heyward ..." -> nur der Erstgenannte
+    const creator = author.replace(/^von\s+/i, '').split(',')[0].trim();
 
     const side = clean([...el.querySelectorAll('.performance__sideinfoscol')].map((x) => x.textContent).join(' '));
     if (/jung für alle/i.test(side)) continue;
@@ -37,7 +39,7 @@ export function parseKobMonth(document) {
       company: COMPANIES.KOB,
       kind: 'oper',
       title,
-      creator: author,
+      creator,
       venue: kobVenue(el.querySelector('.performance__location')?.textContent),
       start: meta.getAttribute('content').slice(0, 16),
       end: null,

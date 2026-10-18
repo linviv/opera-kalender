@@ -4,10 +4,12 @@
 # Alle künftigen Termine dieser Produktion verschwinden beim nächsten Update aus dem Kalender.
 # Bereits vergangene Termine bleiben als Erinnerung im Kalender.
 #
-# So geht's: eine Zeile pro Produktion, einfach den Titel so schreiben, wie er in der
-# PRUEFLISTE.md steht (Groß-/Kleinschreibung und Akzente sind egal).
+# So geht's: eine Zeile pro Produktion. Am einfachsten kopierst du die Zeile aus der
+# letzten Spalte der PRUEFLISTE.md, z. B.  Tosca @ Staatsoper
+# Der Teil nach dem @ sagt, in welchem Haus. Lässt du ihn weg, verschwindet der Titel in
+# ALLEN Häusern (Groß-/Kleinschreibung und Akzente sind egal).
 # Zeilen, die mit # beginnen, werden ignoriert.
 #
 # Beispiele (ohne # davor wirksam):
-# La Bohème
-# Schwanensee
+# La bohème @ Deutsche Oper
+# Giselle @ Staatsballett

@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { buildIcs } from '../src/ics.js';
 import { VENUES, locationText, COMPANIES } from '../src/lib.js';
-import { mergeArchive, isHidden, prueflisteMarkdown } from '../src/build.js';
+import { mergeArchive, isHidden, prueflisteMarkdown, parseSeen } from '../src/build.js';
 import { normKey } from '../src/lib.js';
 
 const evs = [
@@ -20,9 +20,13 @@ assert.equal(locationText(COMPANIES.DOB, VENUES.DOB), 'Deutsche Oper Berlin, Bis
 assert.equal(locationText(COMPANIES.KOB, VENUES.KOB_SCHILLER), 'Komische Oper Berlin @ Schillertheater, Bismarckstraße 110, 10625 Berlin');
 assert.equal(locationText(COMPANIES.DOB, VENUES.DOB_TISCHLEREI), 'Deutsche Oper Berlin (Tischlerei), Bismarckstraße 35, 10627 Berlin');
 
-const seen = new Set([normKey('la boheme')]);
+const seen = parseSeen('la boheme');
 assert.ok(isHidden(evs[0], seen));
 assert.ok(!isHidden(evs[1], seen));
+const only = parseSeen('Die Zauberflöte @ Staatsoper\n# Kommentar');
+assert.ok(!isHidden(evs[2], only));
+assert.ok(isHidden({ ...evs[2], company: COMPANIES.SUL }, only));
+assert.ok(isHidden(evs[2], parseSeen('Die Zauberflöte @ Komische Oper')));
 
 const now = '2026-10-18T12:00';
 const merged = mergeArchive([{ ...evs[0], start: '2026-10-01T19:30', uid: 'dob-old' }, evs[2]], [evs[0]], ['kob-'], now);
