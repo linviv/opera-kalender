@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Oper &amp; Ballett Berlin</title>
+<style>
+  body { font: 17px/1.5 -apple-system, system-ui, sans-serif; max-width: 34rem; margin: 3rem auto; padding: 0 1rem; color: #222; }
+  a.btn { display: inline-block; padding: .7rem 1.1rem; background: #7a1f2b; color: #fff; border-radius: .5rem; text-decoration: none; }
+  @media (prefers-color-scheme: dark) { body { background: #151515; color: #eee; } }
+</style>
+</head>
+<body>
+<h1>Oper &amp; Ballett Berlin</h1>
+<p>Spielplan von Komischer Oper, Staatsoper Unter den Linden, Deutscher Oper und Staatsballett als Kalender-Abo.</p>
+<p><a class="btn" id="sub" href="#">In Apple Kalender abonnieren</a></p>
+<p>Die Termine aktualisieren sich automatisch.</p>
+<script>
+  var url = new URL('oper-ballett.ics', location.href).href.replace(/^https?:/, 'webcal:');
+  document.getElementById('sub').href = url;
+</script>
+</body>
+</html>

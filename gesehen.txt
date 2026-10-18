@@ -1,0 +1,13 @@
+# Bereits gesehene Produktionen
+#
+# Hier trägst du Produktionen ein, die du schon gesehen hast (oder nicht sehen willst).
+# Alle künftigen Termine dieser Produktion verschwinden beim nächsten Update aus dem Kalender.
+# Bereits vergangene Termine bleiben als Erinnerung im Kalender.
+#
+# So geht's: eine Zeile pro Produktion, einfach den Titel so schreiben, wie er in der
+# PRUEFLISTE.md steht (Groß-/Kleinschreibung und Akzente sind egal).
+# Zeilen, die mit # beginnen, werden ignoriert.
+#
+# Beispiele (ohne # davor wirksam):
+# La Bohème
+# Schwanensee
