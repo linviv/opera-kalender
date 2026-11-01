@@ -10,9 +10,9 @@ Diese Liste wird bei jedem Update neu erzeugt. Pro Produktion eine Zeile.
 | Produktion | Termine | Zeitraum | Status | Eintrag für gesehen.txt |
 |---|---|---|---|---|
 | Antikrist – Rued Langgaard | 3 | 16.05.27 bis 27.05.27 | im Kalender | `Antikrist @ Deutsche Oper` |
-| Carmen – Georges Bizet | 5 | 21.10.26 bis 12.03.27 | im Kalender | `Carmen @ Deutsche Oper` |
+| Carmen – Georges Bizet | 3 | 04.03.27 bis 12.03.27 | im Kalender | `Carmen @ Deutsche Oper` |
 | Così fan tutte – Wolfgang Amadeus Mozart | 6 | 28.02.27 bis 15.03.27 | im Kalender | `Così fan tutte @ Deutsche Oper` |
-| Der fliegende Holländer – Richard Wagner | 8 | 24.10.26 bis 20.02.27 | im Kalender | `Der fliegende Holländer @ Deutsche Oper` |
+| Der fliegende Holländer – Richard Wagner | 5 | 05.11.26 bis 20.02.27 | im Kalender | `Der fliegende Holländer @ Deutsche Oper` |
 | Die Entführung aus dem Serail – Wolfgang Amadeus Mozart | 4 | 03.12.26 bis 18.12.26 | im Kalender | `Die Entführung aus dem Serail @ Deutsche Oper` |
 | Die Zauberflöte – Wolfgang Amadeus Mozart | 6 | 16.11.26 bis 15.01.27 | ausgeblendet (gesehen) | `Die Zauberflöte @ Deutsche Oper` |
 | Don Carlo – Giuseppe Verdi | 5 | 29.05.27 bis 17.06.27 | im Kalender | `Don Carlo @ Deutsche Oper` |
@@ -46,13 +46,13 @@ Diese Liste wird bei jedem Update neu erzeugt. Pro Produktion eine Zeile.
 | Bretter, die die Welt bedeuten – Gerhard Kneifel | 3 | 20.12.26 bis 30.12.26 | im Kalender | `Bretter, die die Welt bedeuten @ Komische Oper` |
 | Cast a Diva – Iiro Rantala | 5 | 17.04.27 bis 18.05.27 | im Kalender | `Cast a Diva @ Komische Oper` |
 | Der goldene Hahn – Nikolai Rimski-Korsakow | 6 | 27.03.27 bis 01.05.27 | im Kalender | `Der goldene Hahn @ Komische Oper` |
-| Die Zauberflöte – Wolfgang Amadeus Mozart | 10 | 27.05.27 bis 03.07.27 | im Kalender | `Die Zauberflöte @ Komische Oper` |
+| Die Zauberflöte – Wolfgang Amadeus Mozart | 6 | 17.06.27 bis 03.07.27 | im Kalender | `Die Zauberflöte @ Komische Oper` |
 | Echnaton (Akhnaten) – Philip Glass | 10 | 09.01.27 bis 20.02.27 | im Kalender | `Echnaton (Akhnaten) @ Komische Oper` |
 | Hänsel und Gretel – Engelbert Humperdinck | 7 | 06.12.26 bis 23.01.27 | ausgeblendet (gesehen) | `Hänsel und Gretel @ Komische Oper` |
-| Jewgeni Onegin – Pjotr Tschaikowski | 8 | 24.10.26 bis 25.12.26 | im Kalender | `Jewgeni Onegin @ Komische Oper` |
+| Jewgeni Onegin – Pjotr Tschaikowski | 6 | 14.11.26 bis 25.12.26 | im Kalender | `Jewgeni Onegin @ Komische Oper` |
 | Król Roger – Karol Szymanowski | 7 | 30.01.27 bis 29.03.27 | im Kalender | `Król Roger @ Komische Oper` |
 | Madama Butterfly – Giacomo Puccini | 9 | 21.11.26 bis 15.01.27 | im Kalender | `Madama Butterfly @ Komische Oper` |
-| Orpheus in der Unterwelt – Jacques Offenbach | 10 | 23.10.26 bis 31.12.26 | im Kalender | `Orpheus in der Unterwelt @ Komische Oper` |
+| Orpheus in der Unterwelt – Jacques Offenbach | 8 | 07.11.26 bis 31.12.26 | im Kalender | `Orpheus in der Unterwelt @ Komische Oper` |
 | Pferd frisst Hut – Herbert Grönemeyer | 7 | 27.02.27 bis 19.03.27 | im Kalender | `Pferd frisst Hut @ Komische Oper` |
 | Porgy and Bess – George Gershwin | 21 | 09.05.27 bis 05.06.27 | im Kalender | `Porgy and Bess @ Komische Oper` |
 | Semele – Georg Friedrich Händel | 7 | 20.03.27 bis 30.04.27 | im Kalender | `Semele @ Komische Oper` |
@@ -66,10 +66,9 @@ Diese Liste wird bei jedem Update neu erzeugt. Pro Produktion eine Zeile.
 | Der Liebhaber – Marco Goecke | 6 | 05.06.27 bis 02.07.27 | im Kalender | `Der Liebhaber @ Staatsballett` |
 | Der Nussknacker – Christian Spuck | 17 | 27.11.26 bis 25.01.27 | im Kalender | `Der Nussknacker @ Staatsballett` |
 | Fearful Symmetries – George Balanchine & Christian Spuck | 11 | 12.02.27 bis 15.04.27 | im Kalender | `Fearful Symmetries @ Staatsballett` |
-| Giselle – Patrice Bart | 3 | 23.10.26 bis 30.10.26 | ausgeblendet (gesehen) | `Giselle @ Staatsballett` |
 | Nurejew – Yuri Possokhov & Kirill Serebrennikov | 8 | 23.04.27 bis 17.05.27 | im Kalender | `Nurejew @ Staatsballett` |
 | William Forsythe II – William Forsythe | 12 | 19.03.27 bis 27.06.27 | im Kalender | `William Forsythe II @ Staatsballett` |
-| Wunderkammer – Marcos Morau | 4 | 25.10.26 bis 08.11.26 | ausgeblendet (gesehen) | `Wunderkammer @ Staatsballett` |
+| Wunderkammer – Marcos Morau | 2 | 06.11.26 bis 08.11.26 | ausgeblendet (gesehen) | `Wunderkammer @ Staatsballett` |
 
 ## Staatsoper Unter den Linden
 
@@ -90,7 +89,6 @@ Diese Liste wird bei jedem Update neu erzeugt. Pro Produktion eine Zeile.
 | La Vestale – Gaspare Spontini | 3 | 30.04.27 bis 08.05.27 | im Kalender | `La Vestale @ Staatsoper` |
 | Les Contes d’Hoffmann – Jacques Offenbach | 4 | 03.03.27 bis 14.03.27 | im Kalender | `Les Contes d’Hoffmann @ Staatsoper` |
 | Les pêcheurs de perles – Georges Bizet | 6 | 02.04.27 bis 23.04.27 | im Kalender | `Les pêcheurs de perles @ Staatsoper` |
-| Madama Butterfly – Giacomo Puccini | 2 | 22.10.26 bis 24.10.26 | ausgeblendet (gesehen) | `Madama Butterfly @ Staatsoper` |
 | Manon Lescaut – Giacomo Puccini | 8 | 21.03.27 bis 03.07.27 | im Kalender | `Manon Lescaut @ Staatsoper` |
 | Nabucco – Giuseppe Verdi | 4 | 14.12.26 bis 22.12.26 | im Kalender | `Nabucco @ Staatsoper` |
 | Norma – Vincenzo Bellini | 4 | 03.04.27 bis 16.04.27 | im Kalender | `Norma @ Staatsoper` |
@@ -98,7 +96,7 @@ Diese Liste wird bei jedem Update neu erzeugt. Pro Produktion eine Zeile.
 | Rigoletto – Giuseppe Verdi | 3 | 24.04.27 bis 02.05.27 | im Kalender | `Rigoletto @ Staatsoper` |
 | Salome – Richard Strauss | 6 | 10.01.27 bis 29.01.27 | im Kalender | `Salome @ Staatsoper` |
 | Tannhäuser – Richard Wagner | 3 | 20.03.27 bis 26.03.27 | im Kalender | `Tannhäuser @ Staatsoper` |
-| Tosca – Giacomo Puccini | 11 | 25.10.26 bis 05.02.27 | im Kalender | `Tosca @ Staatsoper` |
+| Tosca – Giacomo Puccini | 8 | 28.11.26 bis 05.02.27 | im Kalender | `Tosca @ Staatsoper` |
 | Tristan und Isolde – Richard Wagner | 3 | 20.02.27 bis 28.02.27 | im Kalender | `Tristan und Isolde @ Staatsoper` |
 
-Stand: 2026-10-18 18:25 Uhr (Berliner Zeit)
+Stand: 2026-11-01 12:18 Uhr (Berliner Zeit)

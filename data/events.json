@@ -1108,7 +1108,7 @@
     "street": "Unter den Linden 7, 10117 Berlin"
    },
    "start": "2026-11-08T18:00",
-   "end": null,
+   "end": "2026-11-08T21:15",
    "url": "https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/",
    "premiere": false
   },
@@ -1156,7 +1156,7 @@
     "street": "Unter den Linden 7, 10117 Berlin"
    },
    "start": "2026-11-13T19:00",
-   "end": null,
+   "end": "2026-11-13T22:15",
    "url": "https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/",
    "premiere": false
   },
@@ -1236,7 +1236,7 @@
     "street": "Unter den Linden 7, 10117 Berlin"
    },
    "start": "2026-11-15T18:00",
-   "end": null,
+   "end": "2026-11-15T21:15",
    "url": "https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/",
    "premiere": false
   },
@@ -1300,7 +1300,7 @@
     "street": "Unter den Linden 7, 10117 Berlin"
    },
    "start": "2026-11-18T19:00",
-   "end": null,
+   "end": "2026-11-18T22:15",
    "url": "https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/",
    "premiere": false
   },
@@ -1364,7 +1364,7 @@
     "street": "Unter den Linden 7, 10117 Berlin"
    },
    "start": "2026-11-21T19:00",
-   "end": null,
+   "end": "2026-11-21T22:15",
    "url": "https://www.staatsoper-berlin.de/de/veranstaltungen/la-calisto.27274/",
    "premiere": false
   },
@@ -7090,22 +7090,6 @@
    "premiere": false
   },
   {
-   "uid": "kob-1478",
-   "company": "Komische Oper Berlin",
-   "kind": "oper",
-   "title": "Die Zauberflöte",
-   "creator": "Wolfgang Amadeus Mozart",
-   "venue": {
-    "house": "Schillertheater",
-    "owner": "Komische Oper Berlin",
-    "street": "Bismarckstraße 110, 10625 Berlin"
-   },
-   "start": "2027-05-27T19:30",
-   "end": null,
-   "url": "https://www.komische-oper-berlin.de/spielplan/kalender/2027-05/die-zauberfloete/1478/",
-   "premiere": false
-  },
-  {
    "uid": "dob-17919041",
    "company": "Deutsche Oper Berlin",
    "kind": "oper",
@@ -7151,22 +7135,6 @@
    "start": "2027-05-28T19:00",
    "end": null,
    "url": "https://www.staatsoper-berlin.de/de/veranstaltungen/la-forza-del-destino.27278/",
-   "premiere": false
-  },
-  {
-   "uid": "kob-1479",
-   "company": "Komische Oper Berlin",
-   "kind": "oper",
-   "title": "Die Zauberflöte",
-   "creator": "Wolfgang Amadeus Mozart",
-   "venue": {
-    "house": "Schillertheater",
-    "owner": "Komische Oper Berlin",
-    "street": "Bismarckstraße 110, 10625 Berlin"
-   },
-   "start": "2027-05-28T19:30",
-   "end": null,
-   "url": "https://www.komische-oper-berlin.de/spielplan/kalender/2027-05/die-zauberfloete/1479/",
    "premiere": false
   },
   {
@@ -7218,22 +7186,6 @@
    "premiere": false
   },
   {
-   "uid": "kob-1480",
-   "company": "Komische Oper Berlin",
-   "kind": "oper",
-   "title": "Die Zauberflöte",
-   "creator": "Wolfgang Amadeus Mozart",
-   "venue": {
-    "house": "Schillertheater",
-    "owner": "Komische Oper Berlin",
-    "street": "Bismarckstraße 110, 10625 Berlin"
-   },
-   "start": "2027-05-29T19:30",
-   "end": null,
-   "url": "https://www.komische-oper-berlin.de/spielplan/kalender/2027-05/die-zauberfloete/1480/",
-   "premiere": false
-  },
-  {
    "uid": "dob-17919042",
    "company": "Deutsche Oper Berlin",
    "kind": "oper",
@@ -7279,22 +7231,6 @@
    "start": "2027-05-30T18:00",
    "end": null,
    "url": "https://www.staatsoper-berlin.de/de/veranstaltungen/la-forza-del-destino.27278/",
-   "premiere": false
-  },
-  {
-   "uid": "kob-1481",
-   "company": "Komische Oper Berlin",
-   "kind": "oper",
-   "title": "Die Zauberflöte",
-   "creator": "Wolfgang Amadeus Mozart",
-   "venue": {
-    "house": "Schillertheater",
-    "owner": "Komische Oper Berlin",
-    "street": "Bismarckstraße 110, 10625 Berlin"
-   },
-   "start": "2027-05-30T19:30",
-   "end": null,
-   "url": "https://www.komische-oper-berlin.de/spielplan/kalender/2027-05/die-zauberfloete/1481/",
    "premiere": false
   },
   {
@@ -8265,7 +8201,7 @@
    },
    "start": "2027-07-04T18:00",
    "end": null,
-   "url": "https://www.komische-oper-berlin.de/spielplan/kalender/2027-11/sweeney-todd/1346/",
+   "url": "https://www.komische-oper-berlin.de/spielplan/kalender/2027-12/sweeney-todd/1346/",
    "premiere": false
   },
   {
@@ -8310,7 +8246,6 @@
   "echnaton akhnaten|Komische Oper Berlin",
   "elektra|Deutsche Oper Berlin",
   "fearful symmetries|Staatsballett Berlin",
-  "giselle|Staatsballett Berlin",
   "good vibes only|Deutsche Oper Berlin",
   "hamed sherifa|Deutsche Oper Berlin",
   "hansel und gretel|Deutsche Oper Berlin",
@@ -8333,7 +8268,6 @@
   "les pecheurs de perles|Staatsoper Unter den Linden",
   "lohengrin|Deutsche Oper Berlin",
   "madama butterfly|Komische Oper Berlin",
-  "madama butterfly|Staatsoper Unter den Linden",
   "manon lescaut|Staatsoper Unter den Linden",
   "matthaus passion|Deutsche Oper Berlin",
   "music of changes|Deutsche Oper Berlin",
