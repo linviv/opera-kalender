@@ -2,7 +2,7 @@ name: Kalender aktualisieren
 
 on:
   schedule:
-    - cron: '17 4 1 * *'   # monatlich, am 1. früh morgens
+    - cron: '17 4 * * 1'   # wöchentlich, montags früh morgens
   workflow_dispatch:        # manuell startbar
   push:
     paths:
