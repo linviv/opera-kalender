@@ -12,7 +12,7 @@ Diese Liste wird bei jedem Update neu erzeugt. Pro Produktion eine Zeile.
 | Antikrist – Rued Langgaard | 3 | 16.05.27 bis 27.05.27 | im Kalender | `Antikrist @ Deutsche Oper` |
 | Carmen – Georges Bizet | 3 | 04.03.27 bis 12.03.27 | im Kalender | `Carmen @ Deutsche Oper` |
 | Così fan tutte – Wolfgang Amadeus Mozart | 6 | 28.02.27 bis 15.03.27 | im Kalender | `Così fan tutte @ Deutsche Oper` |
-| Der fliegende Holländer – Richard Wagner | 5 | 05.11.26 bis 20.02.27 | im Kalender | `Der fliegende Holländer @ Deutsche Oper` |
+| Der fliegende Holländer – Richard Wagner | 4 | 08.11.26 bis 20.02.27 | im Kalender | `Der fliegende Holländer @ Deutsche Oper` |
 | Die Entführung aus dem Serail – Wolfgang Amadeus Mozart | 4 | 03.12.26 bis 18.12.26 | im Kalender | `Die Entführung aus dem Serail @ Deutsche Oper` |
 | Die Zauberflöte – Wolfgang Amadeus Mozart | 6 | 16.11.26 bis 15.01.27 | ausgeblendet (gesehen) | `Die Zauberflöte @ Deutsche Oper` |
 | Don Carlo – Giuseppe Verdi | 5 | 29.05.27 bis 17.06.27 | im Kalender | `Don Carlo @ Deutsche Oper` |
@@ -31,7 +31,7 @@ Diese Liste wird bei jedem Update neu erzeugt. Pro Produktion eine Zeile.
 | Nabucco – Giuseppe Verdi | 5 | 24.04.27 bis 14.05.27 | im Kalender | `Nabucco @ Deutsche Oper` |
 | Nixon in China – John Adams | 4 | 10.01.27 bis 30.01.27 | im Kalender | `Nixon in China @ Deutsche Oper` |
 | Otello – Giuseppe Verdi | 5 | 16.04.27 bis 02.05.27 | im Kalender | `Otello @ Deutsche Oper` |
-| Pique Dame – Pjotr Tschajkowski | 4 | 01.11.26 bis 13.11.26 | im Kalender | `Pique Dame @ Deutsche Oper` |
+| Pique Dame – Pjotr Tschajkowski | 2 | 07.11.26 bis 13.11.26 | im Kalender | `Pique Dame @ Deutsche Oper` |
 | Rigoletto – Giuseppe Verdi | 4 | 29.01.27 bis 19.02.27 | ausgeblendet (gesehen) | `Rigoletto @ Deutsche Oper` |
 | Salome – Richard Strauss | 3 | 17.04.27 bis 04.05.27 | im Kalender | `Salome @ Deutsche Oper` |
 | Tosca – Giacomo Puccini | 6 | 01.04.27 bis 03.07.27 | im Kalender | `Tosca @ Deutsche Oper` |
@@ -99,4 +99,4 @@ Diese Liste wird bei jedem Update neu erzeugt. Pro Produktion eine Zeile.
 | Tosca – Giacomo Puccini | 8 | 28.11.26 bis 05.02.27 | im Kalender | `Tosca @ Staatsoper` |
 | Tristan und Isolde – Richard Wagner | 3 | 20.02.27 bis 28.02.27 | im Kalender | `Tristan und Isolde @ Staatsoper` |
 
-Stand: 2026-11-01 12:18 Uhr (Berliner Zeit)
+Stand: 2026-11-06 03:21 Uhr (Berliner Zeit)
